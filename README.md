@@ -1,4 +1,4 @@
-# 📡 Hands-On Jaringan Nirkabel: Interaksi Bluetooth Low Energy (BLE) & Polar Verity Sense
+# Hands-On Jaringan Nirkabel: Interaksi Bluetooth Low Energy (BLE) & Polar Verity Sense
 
 Proyek ini dibuat sebagai bagian dari tugas mata kuliah **Jaringan Nirkabel**. Program ini mendemonstrasikan bagaimana berinteraksi dengan perangkat *Internet of Things* (IoT) dan *wearables* menggunakan protokol komunikasi Bluetooth Low Energy (BLE). 
 
@@ -6,7 +6,7 @@ Fokus utama dari proyek ini adalah melakukan pemindaian (scanning) perangkat BLE
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 
 Proyek ini dibangun menggunakan teknologi berikut:
 
@@ -16,7 +16,7 @@ Proyek ini dibangun menggunakan teknologi berikut:
 
 ---
 
-## 🧠 Konsep Komunikasi (GATT Protocol)
+## Konsep Komunikasi (GATT Protocol)
 
 Program ini mengandalkan profil standar **GATT (Generic Attribute Profile)** dalam arsitektur BLE:
 1.  **Heart Rate Service:** Pengekstraksian data difokuskan pada Service standar BLE dengan UUID `0x180D`.
@@ -32,7 +32,7 @@ Proyek ini terbagi menjadi dua skrip utama:
 
 ---
 
-## 🚀 Cara Menjalankan Program
+## Cara Menjalankan Program
 
 ### 1. Instalasi Environment
 Pastikan Python sudah terinstal, lalu jalankan perintah berikut pada terminal/command prompt untuk menginstal pustaka yang dibutuhkan:
