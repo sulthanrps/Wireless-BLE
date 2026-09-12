@@ -24,7 +24,7 @@ Program ini mengandalkan profil standar **GATT (Generic Attribute Profile)** dal
 
 ---
 
-## 📂 Struktur File
+## Struktur File
 
 Proyek ini terbagi menjadi dua skrip utama:
 1.  `1_ble_scanner.py`: Skrip untuk memindai paket *advertisement* BLE di udara. Skrip ini akan mencetak *MAC Address* dan *Device Name* dari seluruh perangkat Bluetooth yang aktif di sekitar.
